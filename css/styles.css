@@ -185,13 +185,9 @@ font-size: 1.5rem;
 @media (max-width: 600px){
 
 .container-fluid{
-padding: 3% 5% 7% 10%;
+padding: 3% 10% 7% 10%;
 }
  
-.row{
-width: 15%;
-}
-
 #title{
 text-align: center;
 }
